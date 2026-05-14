@@ -16,64 +16,36 @@
 
 <div align="center">
 
-## ⚡️ [Limited Stock] Cursor Pay-as-you-go Membership
+<!-- 公告区域：展示 Codex 官方 API 套餐与购买入口 -->
 
-<img src="https://img.shields.io/badge/🔥_Limited_Stock-In_Stock-FF6B6B?style=for-the-badge" alt="Limited Stock"/> <img src="https://img.shields.io/badge/💎_Official_Seat-No_Plugins-4ECDC4?style=for-the-badge" alt="Official Seat"/> <img src="https://img.shields.io/badge/🛡️_30_Day_Guarantee-Most_Stable-45B7D1?style=for-the-badge" alt="30-Day Guarantee"/>
+## 📢 Codex Official API Package Guide
 
-> 💡 A true "veteran" package. Say goodbye to subscription anxiety and switch to pay-as-you-go while stock is available.
+| Package | Daily Limit | Weekly Limit | Monthly Limit | Price |
+|:---|:---:|:---:|:---:|---:|
+| Weekly Card (86 Promo) | 50 | 200 | - | $6 |
+| 15-Day Standard Package | 100 | 300 | 500 | $30 |
+| 30-Day Stable Package | 200 | 500 | 1000 | $55 |
+| 30-Day Advanced Package | 400 | 1000 | 2000 | $90 |
 
-<!-- ==================== 📦 Cursor Limited Edition Overview ==================== -->
+### Promo Copy
 
-<div align="center">
+- Focused on stability and peace of mind, without being expensive.
+- Direct connection to the official Codex API.
+- One Pro account maps to one residential broadband IP.
+- Purchased with real money, not low-quality shared resources.
+- Self-tested for nearly half a month, with an excellent and stable overall experience (cache optimized).
+- Weekly card price: 【$6】. Unit cost is about `$6/200=$0.03`; daily limit 50, weekly limit 200, multiplier 1.
+- GPT model series supported, and image generation model (`image-2`) supported.
 
-### 🗓️ 30-DAY LIMITED EDITION
+**One email address can only use one weekly card!**
 
-> 🚀 **Cursor Limited Edition Pay-as-you-go Membership** | 💰 **Price: $75 USD / 30 Days**
+**Do not attempt jailbreak, adult-content, or reverse-engineering abuse. Backend AI auditing is already enabled and will reject it directly.**
 
-| 📋 Specs | 📅 Validity | 🛡️ After-sales |
-| :---: | :---: | :---: |
-| Official seat login, no plugins or intermediaries. Supports Claude 4.6 Opus and GPT 5.4. Around 1-3 uses per conversation. 500 uses available. | 30 Days | 30-Day Guarantee |
+📢 **PS: If you need higher quotas, custom pay-as-you-go plans, or special requirements, contact me directly.**
 
-**(⚠️ Best pick if you want the most stable pay-as-you-go option right now)**
+Weekly card order page: https://pay.ldxp.cn/item/oq0epw
 
-</div>
-
----
-
-| Type | Offer | 💰 Price | 📦 Stock / Term | 💎 Key Notes |
-|:---:|:---|:---:|:---:|:---|
-| **🚀 Limited** | **Cursor Pay-as-you-go Membership** 🗓️ `30 DAYS` | **$75 USD** | **In Stock** / 30 Days | Official account login, no plugins or intermediaries, Claude 4.6 Opus + GPT 5.4, about 1-3 uses per chat, 500 uses available |
-
-> ℹ️ **Note**: Limited quantity, first come first served. The highest mode cannot be activated.
-
-<details>
-<summary>📋 <b>Offer Details</b> (Click to expand)</summary>
-
-<br>
-
----
-
-#### 💼 Membership Details
-| Item | Description |
-|:---|:---|
-| **Seat Type** | Official seat. Log in with your official account directly |
-| **Supported Models** | Core models including Claude 4.6 Opus and GPT 5.4 |
-| **Usage** | Pay-as-you-go. Each conversation usually consumes about **1-3 uses**, depending on the model |
-| **After-sales** | **30-day** after-sales guarantee. This is currently the most stable and worry-free option |
-| **Availability** | **500 uses available**. Limited stock while supplies last |
-| **Important Note** | The **highest mode cannot be activated** |
-
-</details>
-
----
-
-<!-- ==================== 📢 Purchase Notice & Contact ==================== -->
-
-| ⚠️ **Before You Buy** | 📱 **Contact** |
-|:---|:---|
-| 💎 Official seat login, no plugins, no intermediaries | <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/> [@yuaotian](https://t.me/yuaotian) |
-| ⏱️ About 1-3 uses per conversation, depending on the model | <img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white"/> `JavaRookie666` |
-| 🛡️ 30-day after-sales guarantee, limited stock | |
+Store homepage (more packages): https://pay.ldxp.cn/shop/yuaotian
 
 ---
 </div>
